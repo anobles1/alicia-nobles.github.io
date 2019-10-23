@@ -21,23 +21,21 @@ Nobles, Dredze, Ayers. 2019. “Repeal and Replace”: Increased Demand for Intr
 Ayers, Nobles, Dredze. 2019. Media Trends for SAMHSA's 800-662-HELP Addiction Treatment Referral Services Following a Celebrity Overdose. JAMA Intern Med.
 
 ## 2018
-- Caputi, Nobles, Ayers. 2018. Internet Searches for Sexual Harassment and Assault, Reporting, and Training Following #MeToo. JAMA Intern Med.
+Caputi, Nobles, Ayers. 2018. Internet Searches for Sexual Harassment and Assault, Reporting, and Training Following #MeToo. JAMA Intern Med.
 
-- Nobles, Dreisbach, Keim-Malpass, Barnes. 2018. “Is this a STD? Please help!”: Online Information Seeking for STDs on Reddit. Proc of AAAI Conference on Web and Social Media (ICWSM).
+Nobles, Dreisbach, Keim-Malpass, Barnes. 2018. “Is this a STD? Please help!”: Online Information Seeking for STDs on Reddit. Proc of AAAI Conference on Web and Social Media (ICWSM).
 
-- Nobles, Glenn, Kowsari, Teachman, Barnes. 2018. Identification of Imminent Suicide Risk Among Young Adults using Text Messages. Proc of ACM Conference on Human Factors in Computing Systems (CHI).
+Nobles, Glenn, Kowsari, Teachman, Barnes. 2018. Identification of Imminent Suicide Risk Among Young Adults using Text Messages. Proc of ACM Conference on Human Factors in Computing Systems (CHI).
 
-- Nobles, Curtis, Ngo, Vardell, Holstege. 2018. Health Insurance Literacy of College Students: A Mixed Methods Analysis. J Am Coll Health.
+Nobles, Curtis, Ngo, Vardell, Holstege. 2018. Health Insurance Literacy of College Students: A Mixed Methods Analysis. J Am Coll Health.
 
-- Boukhechba, Baee, Nobles, Gong, Wells, Barnes. 2018. A social cognitive theory-based framework for monitoring medication adherence applied to endocrine therapy in breast cancer survivors. Proc of IEEE EMBS International Conference on Biomedical & Health Informatics (BHI).
+Boukhechba, Baee, Nobles, Gong, Wells, Barnes. 2018. A social cognitive theory-based framework for monitoring medication adherence applied to endocrine therapy in breast cancer survivors. Proc of IEEE EMBS International Conference on Biomedical & Health Informatics (BHI).
 
 ## 2017
-- Nobles, Goodall, Fitch. 2017. Comparing the Cost of Onsite Best Management Practices to Nutrient Credit Offsets for Stormwater Management: Case Study for VDOT. JAWRA.
+Nobles, Goodall, Fitch. 2017. Comparing the Cost of Onsite Best Management Practices to Nutrient Credit Offsets for Stormwater Management: Case Study for VDOT. JAWRA.
 
 ## 2015
-Nobles, Vilankar, Wu, Barnes. 2015. [Evaluation of Data Quality of Multisite Electronic Health Record Data for Secondary Analysis.] (https://ieeexplore.ieee.org/document/7364060) Proc of IEEE Conference on Big Data.
-
-[blach blah] (github.com)
+Nobles, Vilankar, Wu, Barnes. 2015. [Evaluation of Data Quality of Multisite Electronic Health Record Data for Secondary Analysis.](https://ieeexplore.ieee.org/document/7364060) Proc of IEEE Conference on Big Data.
 
 
 ### my history
