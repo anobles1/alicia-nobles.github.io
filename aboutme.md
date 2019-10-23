@@ -17,12 +17,12 @@ css: /css/love.css
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <strong>data scientist</strong> and <strong>postdoctoral research fellow</strong> in the Department of Medicine at UC San Diego. Preiously worked as a civil engineer (CH2M) before transitioning into <strong>systems and information engineering</strong> for <strong>public health</strong>. 
+I am currently a <strong>data scientist</strong> and <strong>postdoctoral research fellow</strong> in the Department of Medicine at UC San Diego. Preiously worked as a civil engineer (CH2M) before transitioning into <strong>systems and information engineering</strong> for <strong>public health</strong>. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my PhD in <strong>Systems & Information Engineering</strong> and MS in Civil Engineering from the University of Virginia, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
+I obtained my PhD in <strong>Systems & Information Engineering</strong> and MS in Civil Engineering from the University of Virginia, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
 </p>
 
 <p class="about-text">
