@@ -37,7 +37,7 @@ The <strong><a href="/publications">publications</a></strong> page is a nice pla
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Georgia</i>; moved to <i>Puerto Rico</i> for work after undergrad; moved to <i>Virginia</i> for grad; and now live in <i>California</i>.
+I grew up in <i>Georgia</i>; moved to <i>Puerto Rico</i> for work after undergrad; moved to <i>Virginia</i> for grad; and now live in <i>California</i>.
 </p>
 
 <p class="about-text">
