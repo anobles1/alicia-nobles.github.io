@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Hi, I'm Alicia
-subtitle: Systems Engineer | Proud Ramblin' Wreck
+subtitle: Data Scientist | Systems Engineer | Proud Ramblin' Wreck
 css: /css/love.css
 ---
+
 <div class="withLove">
   <span class="alpha">I</span>
       <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="92px" height="72px" viewBox="0 0 92 72" enable-background="new 0 0 92 72" xml:space="preserve" class="heart">
@@ -14,13 +15,14 @@ css: /css/love.css
       <span class="omega"><br>Data Science </span>
 </div>
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#<div id="aboutme-section">
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
+developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
+<a href="https://web.archive.org/web/20121223025414/https://www.makeupbee.com/looks.php" target="_blank">MakeupBee.com</a>,
+<a href="http://glittr.com" target="_blank">glittr.com</a>,
+<a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
+</p>
