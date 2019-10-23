@@ -32,5 +32,5 @@ I <strong>apply & develop tools</strong> to examine online digital footprints fo
 
 <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="/publications">publications</a></strong> page is a nice place to see some of my work. You can also view my <a href="/CV/Resume">CV or resume</a>. 
+The <strong><a href="/publications">publications</a></strong> page is a nice place to see some of my work. You can also view my <a href="documents/CV_102319.pdf">CV</a> or <a href="documents/Resume_102319.pdf">resume</a>. 
 </p>
