@@ -32,5 +32,15 @@ I <strong>apply & develop tools</strong> to examine online digital footprints fo
 
 <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="/publications">publications</a></strong> page is a nice place to see some of my work. You can also view my <a href="documents/CV_102319.pdf">CV</a> or <a href="documents/Resume_102319.pdf">resume</a>. 
+The <strong><a href="/publications">publications</a></strong> page is a nice place to see some of my work. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-globe about-icon"></span>
+Grew up in <i>Georgia</i>; moved to <i>Puerto Rico</i> for work after undergrad; moved to <i>Virginia</i> for grad; and now live in <i>California</i>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I love being outside and can often be found catching the sunshine in beautiful SoCal. I'm currently learning <strong?Spanish</strong> (I take conversational classes at Pura Buena Onda) and can now have short conversations!
 </p>
