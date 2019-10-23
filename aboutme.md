@@ -22,5 +22,15 @@ Currently a <strong>data scientist</strong> and <strong>postdoctoral research fe
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my PhD in <strong>Systems & Information Engineering</strong> from the University of Virginia, MS in Civil Engineering, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> (time series modeling, machine learning, NLP, and qualitative analysis) to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
+Obtained my PhD in <strong>Systems & Information Engineering</strong> from the University of Virginia, MS in Civil Engineering, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I <strong>apply & develop tools</strong> to examine online digital footprints for insights into public health.
+</p>
+
+<p class="about-text">
+<span class="fa fa-file-text-o about-icon"></span>
+The <strong><a href="/publications">publications</a></strong> page is a nice place to see some of my work. You can also view my <a href="/CV/Resume">CV or resume</a>. 
 </p>
