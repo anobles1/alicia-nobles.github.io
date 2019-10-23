@@ -42,5 +42,5 @@ Grew up in <i>Georgia</i>; moved to <i>Puerto Rico</i> for work after undergrad;
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I love being outside and can often be found catching the sunshine in beautiful SoCal. I'm currently learning <strong?Spanish</strong> (I take conversational classes at Pura Buena Onda) and can now have short conversations!
+I love being outside and can often be found catching the sunshine in beautiful SoCal. I'm currently learning <strong>Spanish</strong> (I take conversational classes at Pura Buena Onda) and can now have short conversations!
 </p>
