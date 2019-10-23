@@ -35,7 +35,9 @@ Ayers, Nobles, Dredze. 2019. Media Trends for SAMHSA's 800-662-HELP Addiction Tr
 - Nobles, Goodall, Fitch. 2017. Comparing the Cost of Onsite Best Management Practices to Nutrient Credit Offsets for Stormwater Management: Case Study for VDOT. JAWRA.
 
 ## 2015
-- Nobles, Vilankar, Wu, Barnes. 2015. [Evaluation of Data Quality of Multisite Electronic Health Record Data for Secondary Analysis.] (https://ieeexplore.ieee.org/document/7364060) Proc of IEEE Conference on Big Data.
+Nobles, Vilankar, Wu, Barnes. 2015. [Evaluation of Data Quality of Multisite Electronic Health Record Data for Secondary Analysis.] (https://ieeexplore.ieee.org/document/7364060) Proc of IEEE Conference on Big Data.
+
+[blach blah] (github.com)
 
 
 ### my history
