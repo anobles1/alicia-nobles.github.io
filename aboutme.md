@@ -15,14 +15,7 @@ css: /css/love.css
       <span class="omega"><br>Data Science </span>
 </div>
 
-
-#<div id="aboutme-section">
-
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
-developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
-<a href="https://web.archive.org/web/20121223025414/https://www.makeupbee.com/looks.php" target="_blank">MakeupBee.com</a>,
-<a href="http://glittr.com" target="_blank">glittr.com</a>,
-<a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
+Currently a postdoctoral research fellow in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer<strong> (Jacobs Engieering) before transitioning into a <strong>systems engineer<strong> and <strong>data sicentist<strong>. 
 </p>
