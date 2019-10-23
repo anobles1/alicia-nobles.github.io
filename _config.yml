@@ -22,7 +22,7 @@ description: Personal Website
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   CV/Resume:
     - CV: "documents/CV_102319.pdf"
     - Resume: "documents/Resume_102319.pdf"
