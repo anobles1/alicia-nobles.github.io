@@ -17,7 +17,7 @@ css: /css/love.css
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <strong>data scientist</strong> and <strong>postdoctoral research fellow</strong> in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer</strong> (Jacobs Engieering) before transitioning into <strong>systems and information engineering</strong>. 
+Currently a <strong>data scientist</strong> and <strong>postdoctoral research fellow</strong> in the Department of Medicine at UC San Diego. Preiously worked as a civil engineer (Jacobs Engieering) before transitioning into <strong>systems and information engineering</strong> for <strong>public health</strong>. 
 </p>
 
 <p class="about-text">
