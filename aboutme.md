@@ -17,5 +17,5 @@ css: /css/love.css
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a postdoctoral research fellow in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer<strong> (Jacobs Engieering) before transitioning into a <strong>systems engineer<strong> and <strong>data sicentist<strong>. 
+Currently a <strong>data scientist<strong> and <strong>postdoctoral research fellow<strong> in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer<strong> (Jacobs Engieering) before transitioning into <strong>systems and information engineering<strong>. 
 </p>
