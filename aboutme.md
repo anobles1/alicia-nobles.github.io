@@ -17,5 +17,10 @@ css: /css/love.css
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <strong>data scientist<strong> and <strong>postdoctoral research fellow<strong> in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer<strong> (Jacobs Engieering) before transitioning into <strong>systems and information engineering<strong>. 
+Currently a <strong>data scientist</strong> and <strong>postdoctoral research fellow</strong> in the Department of Medicine at UC San Diego. Preiously worked as a <strong>civil engineer</strong> (Jacobs Engieering) before transitioning into <strong>systems and information engineering</strong>. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+Obtained my PhD in <strong>Systems & Information Engineering</strong> from the University of Virginia, MS in Civil Engineering, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> (time series modeling, machine learning, NLP, and qualitative analysis) to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
 </p>
