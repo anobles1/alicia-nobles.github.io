@@ -26,7 +26,7 @@ navbar-links:
   CV/Resume:
     - CV: "documents/CV_102319.pdf"
     - Resume: "documents/Resume_102319.pdf"
-    - En Español: ""
+    - En Español: "documents/Resume_Spanish_102919.pdf"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
