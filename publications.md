@@ -4,6 +4,8 @@ title: Publications
 #subtitle: Publications
 ---
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
+
 ## 2019
 **Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. (forthcoming). “Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana. Nature Digital  Medicine.
 
