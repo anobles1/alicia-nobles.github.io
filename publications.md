@@ -9,9 +9,9 @@ title: Publications
 ## 2019
 **Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. (forthcoming). “Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana. Nature Digital  Medicine.
 
-**Nobles**, Leas, Althouse, Dredze, Longhurst, Smith, Ayers. (forthcoming). Requests for Diagnoses of Sexually Transmitted Diseases on a Social Media Platform. JAMA.
-
 Glenn, **Nobles**, Barnes, Teachman. (forthcoming). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
+
+**Nobles**, Leas, Althouse, Dredze, Longhurst, Smith, Ayers. 2019. [Requests for Diagnoses of Sexually Transmitted Diseases on a Social Media Platform.](https://jamanetwork.com/journals/jama/fullarticle/2753884) JAMA.
 
 Leas, **Nobles**, Caputi, Ayers. 2019. [Trends in Internet Searches for Cannabidiol (CBD) in the United States.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753393) JAMA Open.
 
