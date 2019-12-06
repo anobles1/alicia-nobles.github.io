@@ -15,4 +15,4 @@ Multiple media outlets covered [our paper on the public's interest in CBD](https
 
 
 **07/23/2019**<br/>
-I advanced a level in my coversational Spanish class!
+I advanced a level in my conversational Spanish class!
