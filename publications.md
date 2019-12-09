@@ -6,7 +6,7 @@ title: Publications
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
-##2020
+## 2020
 **Nobles**, Leas, Latkin, Dredze, Strathdee, Ayers. (in press). #HIV: Alignment of HIV-Related Visual Content on Instagram with Public Health Priorities in the US. AIDS and Behavior.
 
 ## 2019
