@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Alicia
+#title: Hi, I'm Alicia
 subtitle: Data Scientist | Systems Engineer | Proud Ramblin' Wreck
 css: /css/love.css
 ---
