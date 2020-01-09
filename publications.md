@@ -11,7 +11,7 @@ layout: page
 
 Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
 
-**Nobles**, Leas, Latkin, Dredze, Strathdee, Ayers. 2020. #HIV: Alignment of HIV-Related Visual Content on Instagram with Public Health Priorities in the US. AIDS and Behavior.
+**Nobles**, Leas, Latkin, Dredze, Strathdee, Ayers. 2020. [#HIV: Alignment of HIV-Related Visual Content on Instagram with Public Health Priorities in the US.](https://link.springer.com/article/10.1007/s10461-019-02765-5) AIDS and Behavior.
 
 ## 2019
 **Nobles**, Leas, Althouse, Dredze, Longhurst, Smith, Ayers. 2019. [Requests for Diagnoses of Sexually Transmitted Diseases on a Social Media Platform.](https://jamanetwork.com/journals/jama/fullarticle/2753884) JAMA.
