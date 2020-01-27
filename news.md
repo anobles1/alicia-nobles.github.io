@@ -5,8 +5,7 @@ layout: page
 ---
 
 **01/27/2020**<br/>
-UVA Today covered [our work on predicting immiment suicide risk using text messages](hhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC6442737/).<br/>
-[UVA Today](https://news.virginia.edu/content/new-research-finds-text-messages-can-help-predict-suicide-attempts)
+[UVA Today] (https://news.virginia.edu/content/new-research-finds-text-messages-can-help-predict-suicide-attempts) covered [our work on predicting immiment suicide risk using text messages](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6442737/).
 
 **11/5/2019**<br/>
 Multiple media outlets covered [our paper on crowd-diagnoses of STDs on social media](https://jamanetwork.com/journals/jama/fullarticle/2753884).<br/>
