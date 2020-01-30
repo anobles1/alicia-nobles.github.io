@@ -7,9 +7,9 @@ layout: page
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
 ## 2020
-**Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. (in press). “Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana. Nature Digital  Medicine.
-
 Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
+
+**Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. 2020. [“Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana.](https://www.nature.com/articles/s41746-019-0215-9) Nature Digital Medicine.
 
 **Nobles**, Leas, Latkin, Dredze, Strathdee, Ayers. 2020. [#HIV: Alignment of HIV-Related Visual Content on Instagram with Public Health Priorities in the US.](https://link.springer.com/article/10.1007/s10461-019-02765-5) AIDS and Behavior.
 
