@@ -5,6 +5,10 @@ layout: page
 ---
 
 **01/27/2020**<br/>
+Multiple media outlets covered [our paper on resources provided by virtual assistants in response to help-seeking questions](https://www.nature.com/articles/s41746-019-0215-9).<br/>
+[Yahoo!](https://news.yahoo.com/virtual-assistants-siri-alexa-help-manage-addictions-doctors-170653765.html) | [Forbes](https://www.forbes.com/sites/robertglatter/2020/01/30/if-you-need-help-with-addiction-dont-count-on-alexa-or-siri/) | [The Sun](https://www.thesundaily.my/style-life/tech-today/can-virtual-assistants-help-manage-addictions-YM1952111) | [The Sunday Times](https://www.timeslive.co.za/sunday-times/lifestyle/health-and-sex/2020-01-31-can-virtual-assistants-like-siri-help-you-stop-smoking-and-drinking/) | [MEAWW](https://meaww.com/can-smart-devices-siri-alexa-google-help-quit-drinking-drugs-dont-understand-questions-addictions) | [O Globo](https://revistagalileu.globo.com/Tecnologia/noticia/2020/01/assistentes-de-voz-podem-ajudar-eliminar-vicios-aponta-pesquisa.html) | [Global Health News](https://globalhealthnewswire.com/2020/01/29/siri-help-me-quit-what-does-your-smart-device-say-when-you-ask-for-help-with-addiction/)
+
+
 [UVA Today](https://news.virginia.edu/content/new-research-finds-text-messages-can-help-predict-suicide-attempts) covered [our work on predicting immiment suicide risk using text messages](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6442737/).
 
 **11/5/2019**<br/>
