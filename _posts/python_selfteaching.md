@@ -11,6 +11,8 @@ Several people who are new to Python have asked me what I've used to self-learn 
      - A classic that I still refer back to for things like how to create a virtual enviornment.  
 - [Udemy: Python for Data Science & Machine Learning by Jose Portilla](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733430#overview)
      - Introduces the pandas and sklearn libraries. Pandas is very similar to R in that you can operate using dataframes.
+- [NumPy: the absolute basics for begineers](https://numpy.org/devdocs/user/absolute_beginners.html)
+     - Nice introduction to NumPy.
 
 
 **Intermediate Resources:**
