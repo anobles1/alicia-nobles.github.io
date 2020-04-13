@@ -7,7 +7,9 @@ layout: page
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
 ## 2020
-**Nobles**, Leas, Dredze, Ayers. 2020. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of International AAAI Conference on Web and Social Media (ICWSM). 
+**Nobles**, Leas, Dredze, Ayers. 2020. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of International AAAI Conference on Web and Social Media (ICWSM).
+
+**Nobles**, Leas, Noar, Dredze, Latkin, Strathdee, Ayers. 2020. (in press). Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health Using a Case Study of #HIV. PLOS One.
 
 Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
 
