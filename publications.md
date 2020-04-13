@@ -7,6 +7,8 @@ layout: page
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
 ## 2020
+**Nobles**, Leas, Dredze, Ayers. 2020. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of International AAAI Conference on Web and Social Media (ICWSM). 
+
 Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
 
 **Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. 2020. [“Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana.](https://www.nature.com/articles/s41746-019-0215-9) Nature Digital Medicine.
