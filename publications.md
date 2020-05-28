@@ -11,7 +11,7 @@ Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suic
 
 **Nobles**, Leas, Dredze, Ayers. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of AAAI Conference on Web and Social Media (ICWSM).
 
-**Nobles**, Leas, Noar, Dredze, Strathdee, Ayers. 2020. [Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health using a Case Study of #HIV.] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231155) PLOS ONE.
+**Nobles**, Leas, Noar, Dredze, Strathdee, Ayers. 2020. [Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health using a Case Study of #HIV.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231155) PLOS ONE.
 
 **Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. 2020. [“Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana.](https://www.nature.com/articles/s41746-019-0215-9) Nature Digital Medicine.
 
