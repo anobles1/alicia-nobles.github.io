@@ -24,9 +24,9 @@ navbar-links:
   Publications: "publications"
   #Teaching: "teaching"
   CV/Resume:
-    - CV: "documents/CV_102319.pdf"
-    - Resume: "documents/Resume_102319.pdf"
-    - En Español: "documents/Resume_Spanish_102919.pdf"
+    - CV: "documents/CV_Website.pdf"
+    #- Resume: "documents/Resume_102319.pdf"
+    #- En Español: "documents/Resume_Spanish_102919.pdf"
   Updates/Press: "news"
   #Blog: "blog"
   #Resources:
