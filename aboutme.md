@@ -27,7 +27,7 @@ I obtained my PhD in <strong>Systems & Information Engineering</strong>, MS in C
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I <strong>develop & apply tools</strong> to a variety of <strong>digital data</strong> sources (social media, text messages, search engine queries) to <strong>monitor human behavior</strong> (as manifested in our online digital footprints) and provide data-driven insights to inform <strong>health interventions</strong>.
+I <strong>develop & apply tools</strong> to a variety of <strong>digital data</strong> sources (social media, text messages, search engine queries) to <strong>monitor human behavior</strong> (as manifested in our online digital footprints) and provide data-driven insights to inform <strong>health communication and interventions</strong>.
 </p>
 
 <p class="about-text">
