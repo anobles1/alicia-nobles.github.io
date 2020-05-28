@@ -7,15 +7,17 @@ layout: page
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
 ## 2020
-**Nobles**, Leas, Dredze, Ayers. 2020. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of International AAAI Conference on Web and Social Media (ICWSM).
-
-**Nobles**, Leas, Noar, Dredze, Latkin, Strathdee, Ayers. 2020. (in press). Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health Using a Case Study of #HIV. PLOS One.
-
 Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
+
+**Nobles**, Leas, Dredze, Ayers. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of AAAI Conference on Web and Social Media (ICWSM).
+
+**Nobles**, Leas, Noar, Dredze, Strathdee, Ayers. 2020. [Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health using a Case Study of #HIV.] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231155) PLOS ONE.
 
 **Nobles**, Leas, Caputi, Zhu, Strathdee, Ayers. 2020. [“Did I Say Something Wrong?” Responses to Addiction Help-Seeking from Intelligent Virtual Assistants on Alexa, Siri, Google Assistant, Bixby, and Cortana.](https://www.nature.com/articles/s41746-019-0215-9) Nature Digital Medicine.
 
 **Nobles**, Leas, Latkin, Dredze, Strathdee, Ayers. 2020. [#HIV: Alignment of HIV-Related Visual Content on Instagram with Public Health Priorities in the US.](https://link.springer.com/article/10.1007/s10461-019-02765-5) AIDS and Behavior.
+
+Leas, Prochaska, Ayers, **Nobles**, Henrikson. 2020. [What to do when tobacco advertisers co-opt anti-tobacco social media campaigns to sell tobacco.](https://tobaccocontrol.bmj.com/content/early/2019/06/27/tobaccocontrol-2019-054993) Tobacco Control.
 
 ## 2019
 **Nobles**, Leas, Althouse, Dredze, Longhurst, Smith, Ayers. 2019. [Requests for Diagnoses of Sexually Transmitted Diseases on a Social Media Platform.](https://jamanetwork.com/journals/jama/fullarticle/2753884) JAMA.
@@ -25,8 +27,6 @@ Leas, **Nobles**, Caputi, Ayers. 2019. [Trends in Internet Searches for Cannabid
 **Nobles**, Curtis, Ngo, Vardell, Holstege. 2019. [Health Insurance Literacy of College Students: A Mixed Methods Analysis.](https://www.tandfonline.com/doi/abs/10.1080/07448481.2018.1486844) J Am Coll Health.
 
 Strathdee, **Nobles**, Ayers. 2019. [Harnessing Digital Data and Data Science to Achieve 90-90-90 Goals to End the HIV Epidemic.](https://journals.lww.com/co-hivandaids/Citation/2019/11000/Harnessing_digital_data_and_data_science_to.8.aspx) Current Opinion in HIV and AIDS. 
-
-Leas, Prochaska, Ayers, **Nobles**, Henrikson. 2019. [What to do when tobacco advertisers co-opt anti-tobacco social media campaigns to sell tobacco.](https://tobaccocontrol.bmj.com/content/early/2019/06/27/tobaccocontrol-2019-054993) Tobacco Control.
 
 **Nobles**, Dredze, Ayers. 2019. [“Repeal and Replace”: Increased Demand for Intrauterine Devices Following the 2016 Presidential Election.](https://www.sciencedirect.com/science/article/abs/pii/S0010782418304852) Contraception.
 
