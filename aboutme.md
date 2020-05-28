@@ -22,7 +22,7 @@ Currently I am a <strong>data scientist</strong> and <strong>assistant professor
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my PhD in <strong>Systems & Information Engineering</strong> and MS in Civil Engineering from the University of Virginia, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. 
+I obtained my PhD in <strong>Systems & Information Engineering</strong>, MS in Civil Engineering from the University of Virginia, and BS in Civil Engineering from Georgia Tech. My PhD applied methods from <strong>data science</strong> and <strong>human-computer interaction</strong> to examine online information seeking for <strong>sensitive, stigmatized</strong> reprodutive and sexual <strong>health issues</strong>. My postdoctoral fellowship further cross-trained me in <strong>public health</strong>.
 </p>
 
 <p class="about-text">
