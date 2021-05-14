@@ -6,10 +6,28 @@ layout: page
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=Z3D7SpoAAAAJ&hl=en)
 
-## 2020
-Glenn, **Nobles**, Barnes, Teachman. (in press). Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk. Clin Psychol Sci.
+## 2021
 
-**Nobles**, Leas, Dredze, Ayers. (in press). Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of AAAI Conference on Web and Social Media (ICWSM).
+Mueller, Wood-Doughty, Amir, Dredze, **Nobles**. 2021. Demographic Representation and Collective Storytelling in the Me Too Twitter Hashtag Activism Movement. Proc of ACM Computer-Supported Cooperative Work and Social Computing (CSCW). 
+
+Sawhney,* Joshi,* **Nobles**,* Shah. 2021. Towards Emotion- and Time-Aware Classification of Tweets to Assist Human Moderation for Suicide Prevention. Proc of AAAI Conference on Web and Social Media (ICWSM). *equal contribution
+
+Leas, Moy, **Nobles**, Ayers, Zhu, Purushothaman. 2021. Google shopping queries for vaping products, JUUL, IQOS during the E-cigarette, or Vaping, product use Associated Lung Injury (EVALI) outbreak. 
+
+Ayers, Poliak, Johnson, Leas, Dredze, Caputi, **Nobles**. 2021. Suicide-related internet searches during the early stages of the COVID-19 pandemic in the US. JAMA Network Open. 
+
+## 2020
+Leas, Hendrickson, **Nobles**, Todd, Smith, Dredze, Ayers. 2020. Self-reported Cannabidiol (CBD) Use for Conditions With Proven Therapies. JAMA Network Open.
+
+Leas, **Nobles**, Caputi, Dredze, Zhu, Cohen, Ayers. 2020. News coverage of the E-cigarette, or Vaping, product use Associated Lung Injury (EVALI) outbreak and internet searches for vaping cessation. Tobacco Control.
+
+Ayers, Leas, Johnson, Poliak, Althouse, Dredze, **Nobles**. 2020. Internet Searches for Acute Anxiety During the Early Stages of the COVID-19 Pandemic. JAMA Internal Medicine.
+
+Chu, Fathy, **Nobles**, Lipoff. 2020. Patient crowdsourcing of dermatologic consults on a Reddit social media community. Journal of the American Academy of Dermatology.
+
+Glenn, **Nobles**, Barnes, Teachman. 2020. [Can Text Messages Identify Suicide Risk in Real Time? A Within-Subjects Pilot Examination of Temporally-Sensitive Markers of Suicide Risk.](https://journals.sagepub.com/doi/abs/10.1177/2167702620906146?journalCode=cpxa) Clin Psychol Sci.
+
+**Nobles**, Leas, Dredze, Ayers. 2020. [Examining Peer-to-Peer and Patient-Provider Interactions on a Social Media Community Facilitating Ask the Doctor Services. Proc of AAAI Conference on Web and Social Media (ICWSM)](https://ojs.aaai.org//index.php/ICWSM/article/view/7315).
 
 **Nobles**, Leas, Noar, Dredze, Strathdee, Ayers. 2020. [Automated Image Analysis of Instagram Posts: Implications for Risk Perception and Communication in Public Health using a Case Study of #HIV.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231155) PLOS ONE.
 
