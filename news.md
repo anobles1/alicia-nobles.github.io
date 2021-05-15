@@ -4,6 +4,10 @@ layout: page
 #subtitle: News
 ---
 
+**02/06/2021**<br/>
+[NYT](https://www.nytimes.com/2021/02/06/well/family/suicidal-ideation-kids-resilience.html) covered [our paper on monitoring population mental health during the COVID-19 pandemic](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775358)
+
+
 **01/29/2020**<br/>
 Multiple media outlets covered [our paper on resources provided by virtual assistants in response to help-seeking questions](https://www.nature.com/articles/s41746-019-0215-9).<br/>
 [Yahoo!](https://news.yahoo.com/virtual-assistants-siri-alexa-help-manage-addictions-doctors-170653765.html) | [Forbes](https://www.forbes.com/sites/robertglatter/2020/01/30/if-you-need-help-with-addiction-dont-count-on-alexa-or-siri/) | [The Sun](https://www.thesundaily.my/style-life/tech-today/can-virtual-assistants-help-manage-addictions-YM1952111) | [The Sunday Times](https://www.timeslive.co.za/sunday-times/lifestyle/health-and-sex/2020-01-31-can-virtual-assistants-like-siri-help-you-stop-smoking-and-drinking/) | [MEAWW](https://meaww.com/can-smart-devices-siri-alexa-google-help-quit-drinking-drugs-dont-understand-questions-addictions) | [O Globo](https://revistagalileu.globo.com/Tecnologia/noticia/2020/01/assistentes-de-voz-podem-ajudar-eliminar-vicios-aponta-pesquisa.html) | [Global Health News](https://globalhealthnewswire.com/2020/01/29/siri-help-me-quit-what-does-your-smart-device-say-when-you-ask-for-help-with-addiction/)
