@@ -25,7 +25,7 @@ navbar-links:
   #Teaching: "teaching"
   CV/Resume:
     - CV: "documents/CV_Website.pdf"
-    #- Resume: "documents/Resume_102319.pdf"
+    - Resume: "documents/Resume_051721_website.pdf"
     #- En Español: "documents/Resume_Spanish_102919.pdf"
   Updates/Press: "news"
   #Blog: "blog"
